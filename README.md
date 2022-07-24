@@ -7,6 +7,10 @@
 <a href="https://discord.gg/https://discord.gg/YgpnvfKcts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/YgpnvfKcts" height="30" width="40" /></a>
 </p>
 
+## Services:
+- **Discord bot development** 
+- **Website development** 
+- **Discord server development** 
 <h3 align="left">Support:</h3>
 
 <a href="https://www.buymeacoffee.com/furious"><img height="30" src="https://github.com/justw0rk/justw0rk/blob/main/bmc-logo-yellow.png?raw=true"></a>&nbsp;&nbsp;
