@@ -9,4 +9,4 @@
 
 <h3 align="left">Support:</h3>
 
-<a href="https://www.buymeacoffee.com/furious"><img height="30" src="https://github.com/justw0rk/justw0rk/blob/main/bmc-full-logo.svg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/furious"><img height="30" src="https://github.com/justw0rk/justw0rk/blob/main/bmc-logo-yellow.png?raw=true"></a>&nbsp;&nbsp;
