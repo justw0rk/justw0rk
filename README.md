@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Furious</h1>
+![banner](https://github.com/justw0rk/justw0rk/blob/main/furious.png)
 <h3 align="left">A passionate developer from India running a development server called justwork</h3>
 
 <h3 align="left">Connect with me:</h3>
